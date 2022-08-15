@@ -14,10 +14,6 @@ Tenho focado no Java, Spring Boot e agora estou aprendendo DevOps.
 ## 🛠 Habilidades
 Java, JavaScript, MySQL, HTML, CSS...
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/tatiramos)
-
  
 <div align="center">
   <a href="https://github.com/tatiramoos">
