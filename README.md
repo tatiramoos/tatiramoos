@@ -1,7 +1,22 @@
 
-Olá! Sou a Tati Ramos ✦ 
+
+## 🚀 Oii! Sou Tatiane Ramos ✦
+Sou Design Gráfico autodidata a 7 anos. Sempre trabalhei com Design de Marcas <3
+
+Atualmente procuro novos desafios e aprendizados. Amo estudar e aprender coisas novas! 
+Por isso, comecei a estudar programação. Sempre gostei de dar uma olhadinha no código alheio, mas nunca me dediquei a aprender. Estou apaixonada por tudo que estou aprendendo. 
+
+Me inscrevi no Bootcamp Code Girls. Fui selecionada e entrei no mundo do Java. Apaixonei! (risos).
+
+Tenho focado no Java, Spring Boot e agora estou aprendendo DevOps.
 
 
+## 🛠 Habilidades
+Java, JavaScript, MySQL, HTML, CSS...
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/tatiramos)
 
  
 <div align="center">
