@@ -1,7 +1,7 @@
 
 
 ## 🚀 Oii! Sou Tatiane Ramos ✦
-Sou Design Gráfico autodidata a 7 anos. Sempre trabalhei com Design de Marcas <3
+Design Gráfico autodidata a 7 anos. Sempre trabalhei com Design de Marcas <3
 
 Atualmente procuro novos desafios e aprendizados. Amo estudar e aprender coisas novas! 
 Por isso, comecei a estudar programação. Sempre gostei de dar uma olhadinha no código alheio, mas nunca me dediquei a aprender. Estou apaixonada por tudo que estou aprendendo. 
