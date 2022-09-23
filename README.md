@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiramoos&label=Profile%20views&color=0e75b6&style=flat" alt="tatiramoos" /> </p>
 
-- 🔭 I’m currently working on [Projeto Hello Bank - IBM](https://github.com/tatiramoos/projeto-ibm-hellobank)
+- 🔭 no momento estou trabalhando [Projeto Hello Bank - IBM](https://github.com/tatiramoos/projeto-ibm-hellobank)
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySql, Aws**
+- 🌱 atualmente estou aprendendo **Java, Spring Boot, MySql, Aws**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tatiramoos](https://github.com/tatiramoos)
+- 👨‍💻 todos os meus projetos estão disponíveis em [https://github.com/tatiramoos](https://github.com/tatiramoos)
 
-- 📫 How to reach me **contatotatiramos@gmail.com**
+- 📫 como chegar até mim **contatotatiramos@gmail.com**
 
-- 📄 Know about my experiences [Design Gráfico autodidata a 7 anos]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tatiramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatiramos" height="30" width="40" /></a>
