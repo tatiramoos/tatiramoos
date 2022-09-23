@@ -1,6 +1,6 @@
 ![0CA84C92-DFA4-4287-9E3A-94FAC4D400F6](https://user-images.githubusercontent.com/106891550/192014760-de206506-a9d9-462f-9b7f-7ce56ab6f534.gif)
 
-<h1 align="center">Oii, eu sou a Tati Ramos</h1>
+<h1 align="center">Oii, eu sou a Tati Ramos 👩🏽‍💻 😻 ✨</h1>
 <h3 align="center">Estou estudando para me tornar uma Desenvolvedora Back End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiramoos&label=Profile%20views&color=0e75b6&style=flat" alt="tatiramoos" /> </p>
