@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiramoos&label=Profile%20views&color=0e75b6&style=flat" alt="tatiramoos" /> </p>
 
-- 🔭 no momento estou trabalhando [Projeto Hello Bank - IBM](https://github.com/tatiramoos/projeto-ibm-hellobank)
+- 🔭 no momento estou trabalhando na IBM como Estagiária 
 
 - 🌱 atualmente estou aprendendo **Java, Spring Boot, MySql, Aws**
 
