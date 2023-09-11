@@ -1,11 +1,6 @@
-# Tati Ramos
-
-Backend Developer
-
-![iconlinkedin](https://github.com/tatiramoos/tatiramoos/assets/106891550/39fac1ee-3fd6-466b-b2c1-fb93d080a226)
-
-![0CA84C92-DFA4-4287-9E3A-94FAC4D400F6](https://user-images.githubusercontent.com/106891550/192014760-de206506-a9d9-462f-9b7f-7ce56ab6f534.gif)
-
+<img width="40" height="40" src="https://img.icons8.com/dusk/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="40" height="40" src="https://img.icons8.com/dusk/40/docker.png" alt="docker"/>
+<img width="40" height="40" src="https://img.icons8.com/dusk/40/cloudshot.png" alt="cloudshot"/>
 
 
 
