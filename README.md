@@ -8,9 +8,12 @@
 <img width="40" height="40" src="https://img.icons8.com/dusk/40/cloudshot.png" alt="cloudshot"/>
 </div>
 
-###
+##
 
 <div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/tatiramos" target="_blank"><img width="40" height="40" src="https://img.icons8.com/dusk/40/linkedin--v1.png" alt="linkedin--v1"></a>
+<a href="https://www.instagram.com/tatiramoos" target="_blank"><img width="40" height="40" src="https://img.icons8.com/dusk/40/instagram-new--v1.png" alt="instagram-new--v1"></a>
+</div>
 
 
 
