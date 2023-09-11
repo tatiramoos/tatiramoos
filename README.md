@@ -1,3 +1,5 @@
+Oi! Meu nome é Tatiane Ramos :) 
+
 ### Principais Skills: 
 <div style="display: inline_block"><br>
 <img width="40" height="40" src="https://img.icons8.com/dusk/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
