@@ -3,6 +3,7 @@ Sou uma desenvolvedora de software trabalhando em aplicativos web. Minha experi�
 Amo estudar e aprender sobre novas tecnologias. Sou uma pessoa criativa e motivada, sempre em busca de novos desafios.
 Atualmente, estou aprimorando meus conhecimentos em tecnologias frontend, como JavaScript e TypeScript, para me tornar uma desenvolvedora fullstack.
 Estou ansiosa para contribuir para projetos que façam a diferença no mundo.✨
+
 <div style="display: inline_block"><br>
   <h5>Principais Skills:</h5>
 <img width="40" height="40" src="https://img.icons8.com/dusk/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
