@@ -2,7 +2,7 @@ Oi! Meu nome é Tatiane Ramos ✨👩🏽‍💻
 Sou uma desenvolvedora de software trabalhando em aplicativos web. Minha experiência inclui a criação de API REST em Java, Spring Boot, Quarkus, etc.
 Amo estudar e aprender sobre novas tecnologias. Sou uma pessoa criativa e motivada, sempre em busca de novos desafios.
 Atualmente, estou aprimorando meus conhecimentos em tecnologias frontend, como JavaScript e TypeScript, para me tornar uma desenvolvedora fullstack.
-Estou ansiosa para contribuir para projetos que façam a diferença no mundo.  
+Estou ansiosa para contribuir para projetos que façam a diferença no mundo.✨  
 
 ### Principais Skills: 
 <div style="display: inline_block"><br>
